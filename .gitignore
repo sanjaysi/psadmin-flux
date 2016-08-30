@@ -1,7 +1,4 @@
-/node_modules
-bundle.js
-npm-debug.log
+# ignore dist and node_modules directory files
 
-# IntelliJ
-*.iml
-/.idea
+/dist
+/node_modules
