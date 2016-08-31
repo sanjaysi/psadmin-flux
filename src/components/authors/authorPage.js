@@ -36,7 +36,7 @@ var Authors = React.createClass({
 
                 <table className="table table-hover">
                     <thead>
-                        <th>ID</th>
+                        <th>Id</th>
                         <th>Name</th>
                     </thead>
                     <tbody>
