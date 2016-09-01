@@ -15,8 +15,8 @@ var About = React.createClass({
                 transition.about();
             }
         }
-*/    },
-
+*/
+    },
     render: function() {
         return (
             <div>
